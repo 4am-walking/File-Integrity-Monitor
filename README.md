@@ -20,7 +20,7 @@ The second option monitors the user-given path for any modifications to the file
 <br />
 
 <p align="center">
-<img src="https://github.com/4am-walking/File-Integrity-Monitor/blob/main/Checking%20Integrity.PNG" height="85%" width="85%" alt="Monitoring baseline file."/>
+<img src="https://github.com/4am-walking/File-Integrity-Monitor/blob/main/Checking%20Integrity.png" height="85%" width="85%" alt="Monitoring baseline file."/>
 </p>
 
 <h2>Languages Used</h2>
