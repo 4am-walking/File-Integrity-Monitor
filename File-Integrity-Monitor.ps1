@@ -8,11 +8,12 @@
 Write-Host "Test the integrity of your files!"
 $path = Read-Host -Prompt "Please enter the path (ex: .\Downloads):"
 
-Write-Host "What would you like to do?"
-Write-Host "A) Collect a new Baseline?"
-Write-Host "B) Begin monitoring files with saved Baseline?"
+Write-Host "`nWhat would you like to do?"
+Write-Host "`n     A) Collect a new Baseline?"
+Write-Host "     B) Begin monitoring files with saved Baseline?"
 
-$response = Read-Host -Prompt "Please enter 'A' or 'B'"
+$response = Read-Host -Prompt "
+Please enter 'A' or 'B'"
 
 Write-Host "User entered $($response)"
 
